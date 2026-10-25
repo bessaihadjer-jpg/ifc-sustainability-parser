@@ -2,7 +2,15 @@
 
 
 
+\[!\[Streamlit App](https://static.streamlit.io/badges/streamlit\_badge\_black\_white.svg)](https://your-app-url.streamlit.app)
+
+
+
 A lightweight, browser-based BIM tool built with Python and Streamlit. This application parses Industry Foundation Classes (IFC) files to automatically extract early-stage sustainability metrics and visualize spatial data.
+
+
+
+\*\*Live Demo:\*\* \[Try the application here](https://ifc-sustainability-parser-8qyzj7472jdutaked38wvp.streamlit.app/)
 
 
 
@@ -34,7 +42,7 @@ A lightweight, browser-based BIM tool built with Python and Streamlit. This appl
 
 \## 🚀 How to Run Locally
 
-1\. Clone the repository: `git clone https://github.com/bessaihadjer-jpg/ifc-sustainability-parser.git`
+1\. Clone the repository: `git clone https://github.com/YourUsername/ifc-sustainability-parser.git`
 
 2\. Install dependencies: `pip install -r requirements.txt`
 
